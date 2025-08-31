@@ -1,6 +1,6 @@
 ﻿# 🎲 Sorteador de Números
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-pronto-brightgreen)
 ![Licença](https://img.shields.io/badge/licença-MIT-green)
 ![Feito com](https://img.shields.io/badge/feito%20com-JavaScript-blue)
 
@@ -29,5 +29,6 @@ O programa então sorteia os números sem repetições e exibe o resultado na te
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repo.git
+
 
 
